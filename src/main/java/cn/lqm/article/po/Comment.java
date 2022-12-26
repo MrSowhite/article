@@ -35,6 +35,7 @@ public class Comment implements Serializable {
     private String state;//状态
     private String parentid;//上级ID
     private String articleid;
+    private String git_temp;
     //getter and setter.....
     public String getId() {
         return id;
