@@ -39,6 +39,7 @@ public class Comment implements Serializable {
     private String git_temp_hot;
     private String git_temp_master;
     private String git_temp_hot_2;
+    private String git_temp_push;
     //getter and setter.....
     public String getId() {
         return id;
